@@ -13,5 +13,5 @@ Interaction on Node.js:
 Tests
 -----
 
-- Run the tests via [Mocha](http://visionmedia.github.com/mocha/).
+- Run the tests via [Mocha](https://mochajs.org/).
 - Assertion API: [expect.js](https://github.com/LearnBoost/expect.js).
